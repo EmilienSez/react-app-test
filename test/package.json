@@ -1,7 +1,7 @@
 {
   "name": "test",
   "private": true,
-  "homepage" : "https://emiliensez.github.io/react-app-test",
+  "homepage": "https://emiliensez.github.io/react-app-test/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
